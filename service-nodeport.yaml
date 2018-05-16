@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: kubernetes-challenge-node-port
+  labels:
+    completed: done
+spec:
+  ports:
+    - port: 4000
+  selector:
+    completed: done
+  type: NodePort
