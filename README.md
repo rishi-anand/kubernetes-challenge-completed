@@ -1,10 +1,15 @@
-# Kubernetes Challenge Completed
+# Kubernetes Challenge
 
+### Question
+![Alt text](resources/question.png?raw=true "Title")
+
+
+### Solution
 Verify the solution by navigating to below endpoint.
 
 > [http://35.201.127.175](http://35.201.127.175)
 
-![Alt text](success_message.png?raw=true "Title")
+![Alt text](resources/success_message.png?raw=true "Title")
 
 ### Steps to build DockerFile and upload image to docker hub
 1. Build docker image.
