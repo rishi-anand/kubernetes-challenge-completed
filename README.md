@@ -7,7 +7,8 @@
 ### Solution
 Verify the solution by navigating to below endpoint.
 
-> [http://35.201.127.175](http://35.201.127.175)
+## [http://35.201.127.175](http://35.201.127.175)
+> **Note:** Above endpoint is not accessible as deployment was terminated at 00:00 Hrs on 21st May.
 
 ![Alt text](resources/success_message.png?raw=true "Title")
 
