@@ -8,7 +8,10 @@
 Verify the solution by navigating to below endpoint.
 
 ## [http://35.201.127.175](http://35.201.127.175)
-> **Note:** Above endpoint is not accessible as this deployment and related resources was deleted at 00:00 Hrs on 22nd May.
+> &#x1F538;**Note:** Above endpoint is not accessible as this deployment and other related resources was deleted at 00:00 Hrs on 22nd May 2018 to reduce carbon footprints. 
+> 
+> &#x1F34F;<span style="color:Green;"><b>Go Green</b></span>&#x1F34F;
+
 
 ![Alt text](resources/success_message.png?raw=true "Title")
 
